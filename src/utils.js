@@ -1,0 +1,43 @@
+export const Squarts = [
+    {
+        id:'01',
+        number:'1'
+    },
+    {
+        id:'02',
+        number:'2'
+    },
+    {
+        id:'03',
+        number:'3'
+    },
+    {
+        id:'04',
+        number:'4'
+    },
+    {
+        id:'05',
+        number:'5'
+    },
+    {
+        id:'06',
+        number:'6'
+    },
+    {
+        id:'07',
+        number:'7'
+    },
+    {
+        id:'08',
+        number:'8'
+    },
+    {
+        id:'09',
+        number:'9'
+    },
+    {
+        id:'010',
+        number:'10'
+    },
+
+]
